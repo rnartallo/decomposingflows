@@ -1,12 +1,10 @@
 import numpy as np
 import scipy as sp
-from OldExamples import Ex2 as EX2
 from scipy.stats import multivariate_normal
 import SimplicialComplexDecomp as SCD
 from sklearn.cluster import KMeans
 from scipy.spatial import Delaunay
 import vectorfieldhelpers as VF
-import OURotational as OU_R
 import IsotropicOU as IOU
 import MarkovChainHelpers as MC
 
